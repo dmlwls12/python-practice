@@ -1,15 +1,11 @@
 # python-practice
 
-<br>
-
-## Python Console Projects
-
 파이썬 공부 중 만든 간단한 콘솔 기반 프로그램 모음입니다.  
 각 파일은 독립적인 미니 프로젝트로 구성되어 있습니다.
 
 <br>
 
-### 목록
+### Python Console Projects
 
 | 파일명 | 설명 |
 |--------|------|
