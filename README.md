@@ -1,17 +1,13 @@
 # python-practice
 
-<br>
-
-## Python Console Projects
-
 파이썬 공부 중 만든 간단한 콘솔 기반 프로그램 모음입니다.  
 각 파일은 독립적인 미니 프로젝트로 구성되어 있습니다.
 
 <br>
 
-### 목록
+### Python Console Projects
 
 | 파일명 | 설명 |
 |--------|------|
 | `numbergame.py` | 숫자 맞추기 게임 : 컴퓨터가 랜덤으로 1~10 사이 숫자를 정하고, 사용자가 맞추는 게임 |
-
+| `cafeteria_ticket_system` | 식권 대장 : 식당을 선택하고 시간대별로 달라지는 메뉴를 선택하여 결제하는 시스템 |
